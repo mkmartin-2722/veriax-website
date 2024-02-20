@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Marcellus&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Marcellus&display=swap');
+
+.fs-4 {
+    font-family: "Marcellus", serif;
+    font-weight: 500;
+    font-size: 1.5rem;
+}
+
+body {
+    background-color: #EEEBDD;
+}
+
+.nav {
+    align-items: center;
+}
+
+.nav li {
+    font-size: 1.5rem;
+}
+
+#intro img {
+    border-radius: 5%;
+}
+
+#intro figcaption {
+    text-align: center;
+}
+
+.carousel-caption h1, .carousel-caption p {
+    color: white;
+}
+
+#navbar {
+    background-color: #0f0f0f;
+    box-shadow: 2px 2px 10px white;
+    border-bottom: 3px solid white;
+    font-family: "Abel", sans-serif;
+}
+
+#intro {
+    background-color: #630000;
+    margin-bottom: 100px;
+    text-shadow: 2px 2px 10px black;
+    border-bottom: 2px solid black;
+    box-shadow: 0 2px 10px black;
+    color: white;
+    font-family: "Marcellus", serif;
+}
+
+#intro p {
+    font-family: "Abel", sans-serif;
+    font-size: 1.5rem;
+    font-weight: 300;
+}
+
+#intro button {
+    box-shadow: 2px 2px 10px black;
+    margin: 30px;
+}
+
+.carousel-item .btn {
+    box-shadow: 2px 2px 5px black;
+}
+
+#carouselid {
+    margin-bottom: 100px;
+}
+
+#carouselid img {
+    width: 100%;
+    max-height: 750px;
+    border-radius: 2%;
+    border: 2px solid black;
+}
+
+#features {
+    background-color: #630000;
+    box-shadow: 0 2px 10px black;
+    border-top: 2px solid black;
+}
+
+#features h2 {
+    font-family: "Marcellus", serif;
+}
+
+#features h3 {
+    font-family: "Abel", sans-serif;
+}
+
+#features h4 {
+    font-family: "Abel", sans-serif;
+}
+
+#features a {
+    font-family: "Abel", sans-serif;
+}
+
+
+.feature-icon {
+    border-radius: 10%;
+}
+
+.feature-icon svg {
+    padding: 8px;
+}
+
+#footer {
+    border-top: 2px solid black;
+    background-color: #0f0f0f;
+    font-family: "Abel", sans-serif;
+}
+
+#footer p {
+    font-size: 1.25rem;
+}
+
+#footer li {
+    font-size: 1.25rem;
+}
